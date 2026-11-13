@@ -1,0 +1,12 @@
+{
+  "name": "Bandarku",
+  "short_name": "Bandarku",
+  "description": "City-building game. Works offline.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#dcecff",
+  "theme_color": "#1f5fbf",
+  "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}]
+}
